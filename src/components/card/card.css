@@ -1,0 +1,10 @@
+.maindiv:hover .btn {
+  background-color: white;
+  color: rgb(34, 197, 94);
+  transition-duration: 500ms;
+}
+.maindiv:hover .icondiv {
+  background-color: white;
+  color: rgb(34, 197, 94);
+  transition-duration: 500ms;
+}
