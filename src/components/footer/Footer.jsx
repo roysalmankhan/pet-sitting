@@ -26,7 +26,7 @@ const Footer = () => {
           <h1 className='text-3xl font-bold pb-4'>Have a Questions?</h1>
           <ul>
             <li><span></span> 203 Fake St. Mountain View, San Francisco, California, USA</li>
-            <li><span></span> +2 392 3929 210</li>
+            <li><span></span> +8058611077</li>
             <li><span></span>	info@yourdomain.com</li>
           </ul>
         </div>
